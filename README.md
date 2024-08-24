@@ -13,6 +13,7 @@ A simple URL shortener application built using Python and Tkinter. This project 
 ### Prerequisites
 
 - Python 3.x
+- `pyshorteners` library
 
 ### Clone the Repository
 
